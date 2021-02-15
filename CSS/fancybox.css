@@ -1,0 +1,23 @@
+.fancybox img {
+width: 150px;
+height: auto;
+}
+
+.fancybox {
+  display: flex;
+  box-sizing: border-box;
+  background: rgba(30, 30, 30, 0.9);
+  background-size: cover;
+  height: 250px;
+  margin-top: 60px;
+  justify-content: center;
+}
+
+.fancybox a {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.fancy-gamezone {
+  height: 223px !important;
+}
